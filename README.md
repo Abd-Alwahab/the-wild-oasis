@@ -1,8 +1,31 @@
-# React + Vite
+# The Wild Oasis (B2E) - Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Vercel Deployment Status](https://the-wild-oasis-b2e.vercel.app/logo-light.png)](https://the-wild-oasis-b2e.vercel.app/dashboard)
 
-Currently, two official plugins are available:
+Empower your cabin rental business with the **The Wild Oasis Admin Dashboard**. This comprehensive management tool provides an intuitive interface for overseeing all aspects of your website and bookings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**[View Live Demo](https://the-wild-oasis-b2e.vercel.app/dashboard)**
+
+## Key Features (for Administrators)
+
+- **Cabin Management:**
+  - Add, edit, and delete cabin listings.
+  - Upload photos and detailed descriptions.
+  - Manage pricing and availability.
+- **Booking Management:**
+  - View and process incoming bookings.
+  - Manage payment status and history.
+  - Communicate with guests.
+- **Website Content Management:**
+  - Update website information and promotions.
+  - Create and edit blog posts or news articles.
+- **User Analytics:**
+  - Track website traffic and user behavior.
+  - Gain insights for data-driven decisions.
+- **Customer Support:**
+  - Respond to inquiries and feedback.
+
+## Tech Stack
+
+- **Frontend:** React, JavaScript, Styled Components, React Query, React Hook Form
+- **Backend:** Supabase (PostgreSQL database, authentication)
